@@ -1,6 +1,5 @@
 # Hi there, I'm Eric Kibuchi! 👋
 
-- 👀 I'm interested in fullstack web development.
-- 💞️ I'm looking to collaborate on fullstack projects.
-- 📧 Reach out on Email: [ericgithaiga007@gmail.com]
-
+- 👀 Exploring the realms of fullstack web development.
+- 💞️ Open to collaborations on exciting fullstack projects.
+- 📧 You can contact me via Email: [ericgithaiga007@gmail.com]
